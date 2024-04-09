@@ -90,19 +90,19 @@
 
 <p align="center">
   <a href="https://github.com/drisskhattabi6">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanboufarhi&theme=radical&border=7F3FBF&background=0D1117" alt="Idriss Khattabi's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drisskhattabi6&theme=radical&border=7F3FBF&background=0D1117" alt="Idriss Khattabi's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/drisskhattabi6">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymanboufarhi&theme=radical" alt="Idriss Khattabi's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drisskhattabi6&theme=radical" alt="Idriss Khattabi's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/drisskhattabi6"><img alt="Idriss Khattabi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aymanboufarhi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/drisskhattabi6"><img alt="Idriss Khattabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aymanboufarhi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/drisskhattabi6"><img alt="Idriss Khattabi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=drisskhattabi6&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/drisskhattabi6"><img alt="Idriss Khattabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=drisskhattabi6&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
