@@ -78,10 +78,7 @@
 <br/>
 
 ## Top Open Source -
-[![Arabic Text Preprocessing](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Arabic-Text-Preprocessing&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Arabic-Text-Preprocessing)
-[![Decision Tree Model From Scratch](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Decision-Tree-Model-From-Scratch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Decision-Tree-Model-From-Scratch)
-[![Serious Game](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Serious-Game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Serious-Game)
-[![Esalaf](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Esalaf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Esalaf)
+
 
 <p align="left">
   <a href="https://github.com/drisskhattabi6?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -110,4 +107,4 @@
 </a>
 
 
-![Ayman Boufarhi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aymanboufarhi&custom_title=Ayman%20Boufarhi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Idriss Khattabi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=drisskhattabi6&bg_color=121212&color=00b3ff&line=db0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
