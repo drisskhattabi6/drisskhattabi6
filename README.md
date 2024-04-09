@@ -105,4 +105,4 @@
 </a>
 
 
-![Idriss Khattabi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=drisskhattabi6&bg_color=121212&color=00b3ff&line=db0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Idriss Khattabi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=drisskhattabi6&bg_color=121212&color=00b3ff&line=db0000&point=ffffff&area=true&hide_border=true)
