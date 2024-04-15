@@ -79,9 +79,9 @@
 
 ## Top Open Source :
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=front-end-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/front-end-projects)
+[![Machine Learning_From_Scratch](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=ML_From_Scratch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/ML_From_Scratch)
 
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=id-kh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/id-kh)
-
 [![NLP Pipeline For Arabic Text](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=NLP-Pipeline-For-Arabic-Text&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/NLP-Pipeline-For-Arabic-Text)
 
 
