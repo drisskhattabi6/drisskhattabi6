@@ -78,11 +78,11 @@
 <br/>
 
 ## Top Open Source -
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=front-end-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/front-end-projects)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=front-end-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/front-end-projects)
 
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=id-kh-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/id-kh)
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=id-kh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/id-kh)
 
-[![NLP Pipeline For Arabic Text](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=NLP-Pipeline-For-Arabic-Text&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/NLP-Pipeline-For-Arabic-Text)
+[![NLP Pipeline For Arabic Text](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=NLP-Pipeline-For-Arabic-Text&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/NLP-Pipeline-For-Arabic-Text)
 
 
 <p align="left">
