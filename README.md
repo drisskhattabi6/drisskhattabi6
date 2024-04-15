@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Use To Code :
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FFA500?style=for-the-badge&labelColor=FFFFFF&logo=jupyter)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=ffd343&logo=python)
@@ -77,7 +77,7 @@
 
 <br/>
 
-## Top Open Source -
+## Top Open Source :
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=front-end-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/front-end-projects)
 
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=id-kh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/id-kh)
@@ -85,12 +85,6 @@
 [![NLP Pipeline For Arabic Text](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=NLP-Pipeline-For-Arabic-Text&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/NLP-Pipeline-For-Arabic-Text)
 
 
-<p align="left">
-  <a href="https://github.com/drisskhattabi6?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<br/>
 <p align="left">
   <a href="https://github.com/drisskhattabi6?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
