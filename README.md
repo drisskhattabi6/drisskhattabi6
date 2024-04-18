@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=drisskhattabi6">
-    <img align="right" src="https://komarev.com/ghpvc/?username=drisskhattabi6&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-  </a>
-</p>
+<a href="https://komarev.com/ghpvc/?username=drisskhattabi6">
+  <img align="center" src="https://komarev.com/ghpvc/?username=drisskhattabi6&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 <!-- Intro  -->
 <h3 align="center">
