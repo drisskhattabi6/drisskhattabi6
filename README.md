@@ -31,7 +31,7 @@
  </a> -->
   <!-- 	![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
   <!-- 	![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) -->
-  <a href="https://www.kaggle.com/idrisskh" target="_blank">
+  <a href="https://drisskhattabi6.github.io/id-kh/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
  </a>
   <a href="https://www.kaggle.com/idrisskh" target="_blank">
