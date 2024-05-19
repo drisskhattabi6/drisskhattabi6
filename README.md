@@ -16,7 +16,7 @@
   <samp>
 <!--     <a href="https://www.google.com/search?q=Ayman+Boufarhi">「 Google Me 」</a> -->
 <!--     <br> -->
-    「 I am an AI & Data Science student from <b>Morocco</b> 」
+    「 I am an AI & Data Science student and Python Django Developer from <b>Morocco</b> 」
     <!--「 I am an AI & Data Science student and Python Django Developer from <b>Morocco</b> 」-->
     <br>
     <br>
@@ -112,14 +112,13 @@
 <!--node-red-->
 <br/>
 
-<br/>
+## Top Open Source 
 
-## Top Open Source :
+[![Real Time Twitter Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=Real-Time-Twitter-Sentiment-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/Real-Time-Twitter-Sentiment-Analysis)
+[![Django Blog Project](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=Django-Blog-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/Django-Blog-Project)
+
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=front-end-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/front-end-projects)
-[![Machine Learning_From_Scratch](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=ML_From_Scratch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/ML_From_Scratch)
-
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=id-kh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/id-kh)
-[![NLP Pipeline For Arabic Text](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=NLP-Pipeline-For-Arabic-Text&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/NLP-Pipeline-For-Arabic-Text)
 
 
 <p align="left">
