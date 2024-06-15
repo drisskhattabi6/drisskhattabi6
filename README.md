@@ -114,11 +114,12 @@
 
 ## Top Open Source 
 
+[![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=FSTT_chatbot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/FSTT_chatbot)
 [![Real Time Twitter Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=Real-Time-Twitter-Sentiment-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/Real-Time-Twitter-Sentiment-Analysis)
-[![Django Blog Project](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=Django-Blog-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/Django-Blog-Project)
 
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=front-end-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/front-end-projects)
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=id-kh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/id-kh)
+[![Django Blog Project](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=Django-Blog-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/Django-Blog-Project)
+[![Data Analysis & Machine Learning App](https://github-readme-stats.vercel.app/api/pin/?username=drisskhattabi6&repo=Data-Analysis-And-ML-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/drisskhattabi6/Data-Analysis-And-ML-App)
+
 
 
 <p align="left">
